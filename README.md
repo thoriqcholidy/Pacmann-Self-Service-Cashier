@@ -37,6 +37,8 @@ Below is a flowchart for the cashier system that we developed:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/flowchart.png)
 
 ## **Function and Attributes**
+Please find the function and attributes below:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/function.png)
 
 ## **Test Case**
@@ -46,18 +48,21 @@ Customer added item, there are:
 - Pasta Gigi  ⇒ Quantity: 3, Price: 15000
 
 Result:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test1.png)
 
 ##### **Test 2 (Remove one item)**
 Customer removed "Pasta Gigi"
 
 Result:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test2.png)
 
 ##### **Test 3 (Remove all item)**
 Customer removed all item
 
 Result:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test3.png)
 
 ##### **Test 4 (Check and total order)**
@@ -72,9 +77,11 @@ Check the item first before share the total price/cost
 
 Result:
 - Check Order:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test4.png)
 
 - Total Price & Cost
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test4_total.png)
 
 ##### **Test 5 (Additional test case update item)**
@@ -84,6 +91,7 @@ Customer made some changes on the items:
 - Item name ⇒ 20000 to 19000
 
 Result:
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test5.png)
 
 ##### **Test 6 (Additional test case ValueError)**
@@ -104,6 +112,7 @@ With the result of the test for the python script (code) that have created, it c
 1. The script on [cashier.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/chasier.py) can be used to satisfy Andi's needs with the requirements that have been requested, which features have been defined in the modular [transaction.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/transaction.py)
 2. The features and requirements Andi's need already covered on the system has been developed
 3. Currently, the system is running well and also has efective responses when an error occurs (user input wrong data/type)
+
 
 ## **Closing**
 Thank you for your attention to review and check this project. 
