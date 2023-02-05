@@ -40,31 +40,36 @@ Below is a flowchart for the cashier system that we developed:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/function.png)
 
 ## **Test Case**
-###### **Test 1 (Add item)** 
+##### **Test 1 (Add item)** 
 Customer added item, there are:
 - Ayam Goreng ⇒ Quantity: 2, Price: 20000
 - Pasta Gigi  ⇒ Quantity: 3, Price: 15000
+
 Result:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test1.png)
 
-###### **Test 2 (Remove one item)**
+##### **Test 2 (Remove one item)**
 Customer removed "Pasta Gigi"
+
 Result:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test2.png)
 
-###### **Test 3 (Remove all item)**
+##### **Test 3 (Remove all item)**
 Customer removed all item
+
 Result:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test3.png)
 
-###### **Test 4 (Check and total order)**
+##### **Test 4 (Check and total order)**
 Customer finish the shopping and then want to knows the total price and total cost of their item.
 The item are:
 - Ayam Goreng  ⇒ Quantity: 2, Price: 20000
 - Pasta Gigi   ⇒ Quantity: 3, Price: 15000
 - Mainan Mobil ⇒ Quantity: 1, Price: 200000
 - Mi Instan    ⇒ Quantity: 5, Price: 3000
+
 Check the item first before share the total price/cost
+
 Result:
 - Check Order:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test4.png)
@@ -72,23 +77,39 @@ Result:
 - Total Price & Cost
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test4_total.png)
 
-###### **Test 5 (Additional test case update item)**
+##### **Test 5 (Additional test case update item)**
 Customer made some changes on the items:
 - Item name ⇒ "Ayam Goreng" to "Ayam goreng"
 - Quantity  ⇒ 2 to 3
 - Item name ⇒ 20000 to 19000
+
 Result:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test5.png)
 
-###### **Test 6 (Additional test case ValueError)**
+##### **Test 6 (Additional test case ValueError)**
 The system already prevents users to input the wrong data type for the process. 
 Below is the test case if the user input the wrong data type
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test6.png)
 
-###### **Test 7 (Additional test case KeyError)**
+##### **Test 7 (Additional test case KeyError)**
 The system already prevents user to input the worng "key" for the process.
 Below is the test case if the user input the wrong "key"
+
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test7.png)
+
+
+## **Conclusion**
+With the result of the test for the python script (code) that have created, it can be concluded that:
+1. The script on [cashier.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/chasier.py) can be used to satisfy Andi's needs with the requirements that have been requested, which features have been defined in the modular [transaction.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/transaction.py)
+2. The features and requirements Andi's need already covered on the system has been developed
+3. Currently, the system is running well and also has efective responses when an error occurs (user input wrong data/type)
+
+## **Closing**
+Thank you for your attention to review and check this project. 
+I am willing to accept any feedback and suggestions that can help me become better in the future. 
+Kindly contact to my email: thoriqcholidy@gmail.com
+
 
 **Author** Copyright(c) *2023 M Thoriq Cholidy*
 
