@@ -41,7 +41,7 @@ Please find the function and attributes below:
 
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/function.png)
 
-> Note:
+> 💡Note:
 >
 > Discount rule:
 > - if total price > Rp 200000 ⇒ discount = 5%
@@ -124,7 +124,7 @@ With the result of the test for the python script (code) that have created, it c
 ## **G. Closing**
 Thank you for your attention to review and check this project. 
 I am willing to accept any feedback and suggestions that can help me become better in the future. 
-Kindly contact to my email: thoriqcholidy@gmail.com
+Kindly contact to my email: 📫thoriqcholidy@gmail.com
 
 
 **Author** Copyright(c) *2023 M Thoriq Cholidy*
