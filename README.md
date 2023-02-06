@@ -1,4 +1,4 @@
-# **[Pacmann]Python Project**
+### **[Pacmann]Python Project**
 # **Cashier Self Service System**
 Repository for Self Service Cashier Project
 ## **A. Introduction**
