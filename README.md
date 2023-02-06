@@ -41,6 +41,12 @@ Please find the function and attributes below:
 
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/function.png)
 
+> Note:
+> Discount rule:
+> - if total price > Rp 200000 ⇒ discount = 5%
+> - if total price > Rp 300000 ⇒ discount = 8%
+> - if total price > Rp 500000 ⇒ discount = 10%
+
 ## **Test Case**
 ##### **Test 1 (Add item)** 
 Customer added item, there are:
