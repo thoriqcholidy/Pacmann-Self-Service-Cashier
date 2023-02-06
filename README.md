@@ -1,4 +1,5 @@
-# **[Pacmann]Project Python-Self Service Cashier**
+# **[Pacmann]Python Project**
+# **Cashier Self Service System**
 Repository for Self Service Cashier Project
 ## **A. Introduction**
 This project is the final assignment of Pacmann’s python course. With this project, I am expected to be able to solve the given case by implementing python learning as a solution
