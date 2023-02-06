@@ -119,7 +119,7 @@ Below is the test case if the user input the wrong "key"
 With the result of the test for the python script (code) that have created, it can be concluded that:
 1. The script on [cashier.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/chasier.py) can be used to satisfy Andi's needs with the requirements that have been requested, which features have been defined in the modular [transaction.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/transaction.py)
 2. The features and requirements Andi's need already covered on the system has been developed
-3. Currently, the system is running well and also has efective responses when an error occurs (user input wrong data/type)
+3. Currently, the system is running well and also has effective responses when an error occurs (user input wrong data/type)
 
 
 ## **G. Closing**
