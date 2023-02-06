@@ -1,6 +1,6 @@
 # **[Pacmann]Project Python-Self Service Cashier**
 Repository for Self Service Cashier Project
-## **A.Introduction**
+## **A. Introduction**
 This project is the final assignment of Pacmann’s python course. With this project, I am expected to be able to solve the given case by implementing python learning as a solution
 
 ###### **Project Background**
@@ -12,7 +12,7 @@ Andi request us to provide the system (programming using Python) with some featu
 - Ensure the system has fulfilled all of Andi’s requests and needs
 - Do a test on the system that has been created and make sure it runs well
 
-## **B.Feature & Requirements**
+## **B. Feature & Requirements**
 Based on Andi’s need there is some mandatory feature on our system there are:
 - add_item ⇒ to add the item name, quantity, and the price
 - update_item_name ⇒ to change the item name if the first input is the wrong value
@@ -31,12 +31,12 @@ This feature should be arranged on 2 documents py those are:
 Library:
 - Pandas
 
-## **C.Flowchart**
+## **C. Flowchart**
 For the cashier self-service system, We need a flowchart to know the expected logic flow that can be translated into python code.
 Below is a flowchart for the cashier system that we developed:
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/flowchart.png)
 
-## **D.Function and Attributes**
+## **D. Function and Attributes**
 Please find the function and attributes below:
 
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/function.png)
@@ -47,7 +47,7 @@ Please find the function and attributes below:
 > - if total price > Rp 300000 ⇒ discount = 8%
 > - if total price > Rp 500000 ⇒ discount = 10%
 
-## **E.Test Case**
+## **E. Test Case**
 ##### **Test 1 (Add item)** 
 Customer added item, there are:
 - Ayam Goreng ⇒ Quantity: 2, Price: 20000
@@ -113,14 +113,14 @@ Below is the test case if the user input the wrong "key"
 ![This is an image](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/test7.png)
 
 
-## **F.Conclusion**
+## **F. Conclusion**
 With the result of the test for the python script (code) that have created, it can be concluded that:
 1. The script on [cashier.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/chasier.py) can be used to satisfy Andi's needs with the requirements that have been requested, which features have been defined in the modular [transaction.py](https://github.com/thoriqcholidy/Pacmann-Self-Service-Cashier/blob/master/transaction.py)
 2. The features and requirements Andi's need already covered on the system has been developed
 3. Currently, the system is running well and also has efective responses when an error occurs (user input wrong data/type)
 
 
-## **G.Closing**
+## **G. Closing**
 Thank you for your attention to review and check this project. 
 I am willing to accept any feedback and suggestions that can help me become better in the future. 
 Kindly contact to my email: thoriqcholidy@gmail.com
