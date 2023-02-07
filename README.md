@@ -121,8 +121,13 @@ With the result of the test for the python script (code) that have created, it c
 2. The features and requirements Andi's need already covered on the system has been developed
 3. Currently, the system is running well and also has effective responses when an error occurs (user input wrong data/type)
 
+## **G. Next Steps**
+For the next steps, if we have more time and resources we can do some improvements to this system there are:
+1. Create the prototype for this system with better UI/UX design
+2. Create a function to inform the user when inputting the same item due to currently when the user adds the same item the first item will be replaced 
 
-## **G. Closing**
+
+## **H. Closing**
 Thank you for your attention to review and check this project. 
 I am willing to accept any feedback and suggestions that can help me become better in the future. 
 Kindly contact to my email: 📫thoriqcholidy@gmail.com
